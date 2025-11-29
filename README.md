@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Khalid Mehmood  
-### 💻 Frontend Developer — React JS | Tailwind CSS | JavaScript  
+### 💻Full-Stack Web Developer | Frontend Specialist (HTML, CSS, Tailwind, Bootstrap, JavaScript, React JSX) | Backend Learner (PHP & MySQL) | 
 
 ✨ *Neon Purple + Pink Themed Profile*
 
@@ -20,10 +20,11 @@
 
 ## 🚀 About Me
 
-🔥 Frontend Developer  
-🎯 Expert in **React + Tailwind**  
-⚡ Fast learner — loves UI/UX  
-📌 Building modern, responsive UIs  
+🔥 Full-Stack Developer
+🎯 Expert in React, Tailwind, PHP & MySQL
+⚡ Fast learner — UI/UX & Backend dono handle karta hoon
+📌 Modern, responsive & scalable web apps banata hoon
+🛠️ Frontend + Backend dono sides pe strong command
 📬 Email: **khalidjt804@gmail.com** 
 
 ---
